@@ -1,21 +1,21 @@
 1. Создайте index.html в котором подключите js script.
 2. Создайте README.md с описанием задания.
 3. Добавить следующий шаблон в html
-<h2>Test header <i>test</i></h2>
-<h2 class="test">Test header 2</h2>
-<h2 class="test">Test header 3</h2>
-<h3>Test header h3</h3>
-<h3 class="test">Test header h3</h3>
+   <!-- <h2>Test header <i>test</i></h2> -->
+   <!-- <h2 class="test">Test header 2</h2> -->
+   <!-- <h2 class="test">Test header 3</h2> -->
+   <!-- <h3>Test header h3</h3> -->
+   <!-- <h3 class="test">Test header h3</h3> -->
 
-<div class="test">test 1</div>
-<div class="test">test 2</div>
-<ul>
+<!-- <div class="test">test 1</div> -->
+<!-- <div class="test">test 2</div> -->
+<!-- <ul>
     <li>1</li>
     <li class="test">2</li>
     <li class="www">3</li>
     <li>4</li>
 </ul>
-<p>lorem ipsum </p><p>lorem ipsum</p>
+<p>lorem ipsum </p><p>lorem ipsum</p> -->
 
 4. Задачи на простые селекторы, +, ~.
    Получите и покрасьте в красный цвет следующие элементы:
